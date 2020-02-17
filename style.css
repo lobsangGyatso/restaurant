@@ -1,0 +1,101 @@
+*
+{
+	margin:0;
+	padding: 0;
+}
+.masthead{
+	background-image: url('image/back.jpg');
+	background-size: cover;
+	height: 100vh;
+}
+
+
+
+ #mainNav {
+    box-shadow: none;
+    background-color: transparent;
+    color: #fff;
+  }
+.lobsang{
+	background-image: url('image/back.jpg');
+	background-size: cover;
+	height: 100vh;
+}
+.page-section .mb-4{
+	font-size: 1.25rem;
+	font-weight:bolder;
+	padding-top: 30px
+}
+.instagram .name:hover{
+	background-color: yellow;
+
+}
+/*.image{
+	padding:30px;
+}*/
+.container .row{
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+
+.image .img-box{
+width: 550px;
+
+}
+.image .img-box .one{
+width: 550px;
+height: 200px
+
+}
+.image .img-box .two{
+width: 550px;
+height: 200px
+
+}
+.image .img-box .three{
+width: 550px;
+height: 200px
+
+}
+.header{
+	text-align: center;
+	font-size: 33px;
+}
+.divider{
+   margin-right:auto;
+   margin-left: auto;
+}
+.container li{
+	text-align: center;
+	font-size: 20px;
+	
+
+}
+ul {
+  list-style: none; 
+  padding: 0;
+  margin: 0;
+  color: black
+}
+li{
+	padding:20px 0;
+}
+li:after{
+
+}
+.social-media{
+padding: 0 10px
+}
+a{
+font-weight: bold;
+font-size: 30px;
+color:red;
+}
+.aa{
+	color:black
+}
+
+
+.aa:hover{
+	color: black
+}
